@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+body{
+    background-image: url('https://swall.teahub.io/photos/small/70-700925_cityscape-retro-wave-highway-art-wallpaper-retro-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:contain;
+    background-position-y: bottom;
+    margin-bottom: 30px;
+  }
+.textOne{
+    font-size: large;
+}
